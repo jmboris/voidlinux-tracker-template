@@ -1,6 +1,6 @@
 # Template file for 'tracker_sat'
 pkgname=tracker_sat
-version=0.1.3
+version=0.1.5
 revision=1
 build_style=cargo
 hostmakedepends="openssl openssl-devel pkg-config"
@@ -9,4 +9,4 @@ maintainer="JuanMa <numblinux@gmail.com>"
 license="Apache-2.0"
 homepage="https://github.com/ShenMian/tracker"
 distfiles="https://github.com/ShenMian/tracker/archive/refs/tags/v$version.tar.gz"
-checksum=d2263f737b3b74205fe0f16db057a5bd669be70a3d4595c83a95d2ffb598f670
+checksum=519cbc7feab80499935d6f3caeb949a260082a0934065585e7e0171963009a4a
